@@ -1,3 +1,9 @@
+Name: MALLAM SHEHAZAD
+Company: CODTECH IT SOLUTIONS
+Domain: Cloud Computing
+ID:CT06DZ1209
+Duration:July to Sep 2025
+
 # Cloud Storage Task - AWS S3 Bucket Setup
 
 **Internship Task 1 - CodTech IT Solutions**
